@@ -46,7 +46,7 @@ html {
 }
 
 .expanded {
-  display: none;
+  display: unset;
 }
 
 @media screen and (min-width: 636px) {
